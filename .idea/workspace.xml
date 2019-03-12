@@ -254,7 +254,7 @@
     <option name="totallyTimeSpent" value="5327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -271,11 +271,11 @@
       <window_info anchor="right" id="调色板" order="3" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info id="Capture Tool" order="5" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117553614" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21173105" />
       <window_info id="设计器" order="2" />
       <window_info anchor="right" id="Database" order="4" weight="0.32991013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="right" id="Ant Build" order="1" visible="true" weight="0.12867355" />
+      <window_info active="true" anchor="right" id="Ant Build" order="1" visible="true" weight="0.23175965" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
